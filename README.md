@@ -1,7 +1,7 @@
-### Hi there, I'm [Chakib!](https://anuraghazra.github.io) 👋
+### Hi there, I'm [Chakib!](https://brings123.github.io/ChakibAfraoucene/) 👋
 
 <a href="https://www.linkedin.com/in/chakib-afraoucene-655833123/">
-  <img align="left" alt="Chakib Afraoucene : Facebook" width="20px" src="https://github.com/brings123/brings123/blob/master/assets/facebook.png" />
+  <img align="left" alt="Chakib Afraoucene : Facebook" width="20px" src="https://github.com/brings123/brings123/blob/master/assets/linkedin.png" />
 </a>
 <a href="https://www.instagram.com/chakib.afrou/">
   <img align="left" alt="Chakib Afraoucene : Instagram" width="21px" src="https://github.com/brings123/brings123/blob/master/assets/instagram.png" />
@@ -37,18 +37,18 @@ Hi, I'm Afraoucene Chakib, a passionate full-stack web developer from Algeria.
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=brings123&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Chakib's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brings123&layout=compact&theme=material-palenight" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brings123&repo=github-readme-stats&theme=material-palenight" />
 </a>    
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brings123&repo=anuraghazra.github.io&theme=material-palenight" />
 </a>
